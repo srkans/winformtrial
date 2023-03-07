@@ -1,0 +1,15 @@
+F:\projects\AkimMetal\AkimMetal\bin\Debug\AkimMetal.exe.config
+F:\projects\AkimMetal\AkimMetal\bin\Debug\AkimMetal.exe
+F:\projects\AkimMetal\AkimMetal\bin\Debug\AkimMetal.pdb
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.csproj.AssemblyReference.cache
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.csproj.SuggestedBindingRedirects.cache
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.Properties.Resources.resources
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.UserControl1.resources
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.csproj.GenerateResource.cache
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.csproj.CoreCompileInputs.cache
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.exe
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.pdb
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.Form1.resources
+F:\projects\AkimMetal\AkimMetal\bin\Debug\Newtonsoft.Json.dll
+F:\projects\AkimMetal\AkimMetal\bin\Debug\Newtonsoft.Json.xml
+F:\projects\AkimMetal\AkimMetal\obj\Debug\AkimMetal.csproj.CopyComplete
